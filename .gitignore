@@ -1,0 +1,7 @@
+.env
+**/bin/
+**/obj/
+
+subfolder3/temp
+
+**/*.log
